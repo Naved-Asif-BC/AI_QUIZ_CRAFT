@@ -123,4 +123,4 @@ STEP 5: You MUST GIVE OUTPUT IN JSON FORMAT.
     return {'response': question}
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8080)
+    app.run(debug=True)
